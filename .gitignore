@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# 数据、网络权重和仿真结果
+data/
+checkpoints/
+results/
+*.pt
+*.pth
+
+# 本机编辑器和环境配置
+.vscode/
+.venv/
+.conda/
